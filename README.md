@@ -27,7 +27,7 @@ En este curso aprenderás a programar aplicaciones móviles utilizando Android, 
 Comienza por aprender Kotlin, el lenguaje oficial para el desarrollo de Android:
 
 - [Sitio oficial de Kotlin](https://kotlinlang.org)
-- [Curso introductorio](#)
+- [Curso introductorio](#/Android_k/Curso_intro)
 - [Curso intermedio](#)
 
 ## Android Studio
