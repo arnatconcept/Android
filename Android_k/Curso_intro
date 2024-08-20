@@ -1,0 +1,87 @@
+
+## Introducción
+
+Bienvenido a este curso de *Desarrollo Android*. Este repositorio ha sido diseñado para guiarte desde los conceptos más básicos hasta el desarrollo avanzado de aplicaciones Android utilizando Kotlin, el lenguaje de programación moderno recomendado por Google. 
+
+El objetivo principal es que, al completar esta guía, seas capaz de crear aplicaciones Android robustas y de calidad profesional. Este curso se actualizará de manera continua para incluir los últimos avances en el ecosistema Android.
+
+> *Nota:* Aprender a programar es un proceso que requiere paciencia y perseverancia. Habrá momentos de frustración, pero cada obstáculo que superes te acercará más a convertirte en un desarrollador Android competente.
+
+## ¿Qué es Android?
+
+Android es un sistema operativo basado en Linux desarrollado principalmente para dispositivos móviles, como smartphones y tablets. Es el sistema operativo móvil más utilizado en el mundo, lo que lo convierte en una plataforma excelente para desarrollar aplicaciones.
+
+## Objetivos del Curso
+
+Este curso tiene como objetivo proporcionar una base sólida en desarrollo Android utilizando Kotlin, cubriendo una variedad de temas que incluyen:
+
+- Fundamentos del lenguaje Kotlin.
+- Uso de Android Studio para el desarrollo de aplicaciones.
+- Creación de interfaces de usuario con Android Views y Jetpack Compose.
+- Implementación de patrones de diseño y arquitecturas de software.
+- Conexión de aplicaciones a bases de datos locales y remotas.
+- Publicación de aplicaciones en Google Play Store.
+
+## ¿Para quién es este curso?
+
+Este curso está diseñado para cualquier persona interesada en aprender desarrollo Android, sin importar su nivel de experiencia previa. Si eres principiante en la programación, encontrarás recursos para empezar desde cero. Si ya tienes experiencia, podrás avanzar rápidamente y profundizar en conceptos más complejos.
+
+## Proceso de Aprendizaje
+
+El aprendizaje de la programación es un viaje continuo. A lo largo del curso, te encontrarás con conceptos que pueden ser difíciles al principio. Es importante practicar y aplicar lo aprendido en proyectos reales. Este repositorio incluye ejercicios prácticos y ejemplos que te ayudarán a consolidar tus conocimientos.
+
+Además, se te recomienda unirte a comunidades de desarrolladores donde puedes compartir tus dudas y aprender de la experiencia de otros. Te invitamos a unirte a nuestro servidor de Discord, donde podrás colaborar y aprender junto a otros estudiantes y profesionales.
+
+## Requisitos
+
+### Conocimientos Previos
+
+No se requiere experiencia previa en desarrollo Android, pero tener una base en programación puede ser útil. Si eres nuevo en la programación, es recomendable comenzar con los fundamentos de Kotlin, que es el lenguaje utilizado en este curso.
+
+### Herramientas
+
+- *Android Studio:* El entorno de desarrollo integrado (IDE) oficial para desarrollo Android.
+- *Java Development Kit (JDK):* Requerido para compilar y ejecutar aplicaciones en Android Studio.
+
+### Recursos de Apoyo
+
+Durante el curso, se proporcionarán enlaces a recursos externos, como documentación oficial, tutoriales y artículos. Estos recursos te ayudarán a profundizar en los temas tratados.
+
+## Estructura del Curso
+
+El curso está dividido en módulos, cada uno cubriendo un aspecto clave del desarrollo Android:
+
+1. *Introducción a Kotlin:* Fundamentos del lenguaje de programación Kotlin.
+2. *Entorno de Desarrollo:* Configuración de Android Studio y primeros pasos.
+3. *Fundamentos de Android:* Ciclo de vida de una actividad, creación de interfaces con XML.
+4. *Interfaz de Usuario Avanzada:* Jetpack Compose y componentes personalizados.
+5. *Gestión de Datos:* Persistencia de datos con Room, SharedPreferences y almacenamiento externo.
+6. *Networking:* Comunicación con servidores, manejo de APIs REST y JSON.
+7. *Patrones de Diseño y Arquitectura:* Implementación de MVC y MVVM.
+8. *Pruebas y Debugging:* Estrategias de testing y resolución de errores.
+9. *Publicación:* Preparación y despliegue de aplicaciones en Google Play Store.
+
+Cada módulo incluye:
+
+- *Lecturas y Videos:* Material teórico para entender los conceptos clave.
+- *Ejercicios:* Tareas prácticas para aplicar lo aprendido.
+- *Proyectos:* Desafíos que simulan situaciones del mundo real.
+- *Recursos adicionales:* Enlaces a documentación, artículos y videos para profundizar.
+
+## Comunidad y Colaboración
+
+El aprendizaje es más efectivo cuando se hace en comunidad. Te invitamos a contribuir al curso a través de *pull requests* con tus propios recursos, sugerencias de mejoras o reportes de errores. Además, puedes discutir tus ideas y resolver dudas en nuestro servidor de Discord o en las issues de GitHub.
+
+## Contribuir
+
+Este curso está abierto a contribuciones de la comunidad. Si encuentras algún error, deseas sugerir mejoras o tienes un recurso que pueda ser útil para otros, no dudes en crear un *pull request* o abrir una *issue*.
+
+### Normas de Contribución
+
+- Respeta el formato del contenido existente.
+- Incluye fuentes y referencias cuando agregues material nuevo.
+- Mantén un tono profesional y constructivo.
+
+## Licencia
+
+Este repositorio está bajo la licencia Apache 2.0. Puedes usar, modificar y distribuir el contenido de este curso de acuerdo con los términos de la licencia.
